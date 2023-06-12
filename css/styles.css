@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 400%;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.roll-button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: blue;
+    color: white;
+  }
